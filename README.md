@@ -8,12 +8,12 @@ Les liens ci-dessous pointent vers les fichiers de la dernière release publiée
 
 | Plateforme | Fichier | Téléchargement |
 |---|---|---|
-| Windows 64 bits | Installateur | [Athlys Windows](https://github.com/lilianadc936/Athlys-downloads/releases/latest/download/Athlys-1.0.0-x64.exe) |
-| Windows 64 bits | Version portable | [Athlys Windows Portable](https://github.com/lilianadc936/Athlys-downloads/releases/latest/download/Athlys-Portable-1.0.0-x64.exe) |
-| macOS Apple Silicon | DMG arm64 | [Athlys macOS Apple Silicon](https://github.com/lilianadc936/Athlys-downloads/releases/latest/download/Athlys-1.0.0-arm64.dmg) |
-| macOS Intel | DMG x64 | [Athlys macOS Intel](https://github.com/lilianadc936/Athlys-downloads/releases/latest/download/Athlys-1.0.0-x64.dmg) |
-| Android | APK | [Athlys Android](https://github.com/lilianadc936/Athlys-downloads/releases/latest/download/Athlys-Android.apk) |
-| iOS | Archives de développement / simulateur | [Athlys iOS — développement](https://github.com/lilianadc936/Athlys-downloads/releases/latest/download/athlys-ios-development.zip) |
+| Windows 64 bits | Installateur | [Athlys Windows](https://github.com/lilianadc936/Athlys-downloads/releases/download/athlys-windows-latest/Athlys-1.0.0-x64.exe) |
+| Windows 64 bits | Version portable | [Athlys Windows Portable](https://github.com/lilianadc936/Athlys-downloads/releases/download/athlys-windows-latest/Athlys-Portable-1.0.0-x64.exe) |
+| macOS Apple Silicon | DMG arm64 | [Athlys macOS Apple Silicon](https://github.com/lilianadc936/Athlys-downloads/releases/download/athlys-macos-latest/Athlys-1.0.0-arm64.dmg) |
+| macOS Intel | DMG x64 | [Athlys macOS Intel](https://github.com/lilianadc936/Athlys-downloads/releases/download/athlys-macos-latest/Athlys-1.0.0-x64.dmg) |
+| Android | APK | [Athlys Android](https://github.com/lilianadc936/Athlys-downloads/releases/download/athlys-android-latest/Athlys-Android.apk) |
+| iOS | Archives de développement / simulateur | [Athlys iOS — développement](https://github.com/lilianadc936/Athlys-downloads/releases/download/athlys-ios-simulator-latest/athlys-ios-development.zip) |
 
 ## Notes importantes
 
